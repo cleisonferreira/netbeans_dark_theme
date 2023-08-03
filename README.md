@@ -1,2 +1,2 @@
-# netbeans_dark_theme
+# Netbeans Dark Theme
 My Favorite Dark Theme Colors for Netbeans
