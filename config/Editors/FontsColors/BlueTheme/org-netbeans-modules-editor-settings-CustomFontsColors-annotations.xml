@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "https://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
+<fontscolors>
+    <fontcolor bgColor="ffdcdcd8" name="Dbx_Bpt_cmpx_hit_dis"/>
+    <fontcolor name="PinnedWatch"/>
+    <fontcolor bgColor="fffc9d9f" name="Dbx_Bpt"/>
+    <fontcolor foreColor="ffa8c023" name="org-netbeans-spi-editor-hints-parser_annotation_todo_fixable"/>
+    <fontcolor name="org-netbeans-spi-editor-hints-parser_annotation_warn"/>
+    <fontcolor name="OtherThreads"/>
+    <fontcolor name="org-netbeans-modules-mercurial-Annotation"/>
+    <fontcolor name="org-netbeans-spi-editor-hints-parser_annotation_warn_fixable"/>
+    <fontcolor name="org-netbeans-spi-editor-hints-parser_annotation_err_fixable"/>
+    <fontcolor name="org-netbeans-modules-versioning-annotate-Annotation"/>
+    <fontcolor name="org-netbeans-spi-editor-hints-parser_annotation_verifier"/>
+    <fontcolor name="org-netbeans-spi-editor-hints-parser_annotation_hint"/>
+    <fontcolor name="org-netbeans-modules-subversion-Annotation"/>
+    <fontcolor bgColor="ffbde6aa" name="Dbx_PC"/>
+    <fontcolor name="org-netbeans-modules-editor-annotations-has_implementations"/>
+    <fontcolor bgColor="ffbde6aa" name="Dbx_Bpt_cmpx_hit_broken"/>
+    <fontcolor name="org-netbeans-modules-editor-annotations-implements"/>
+    <fontcolor bgColor="ff2d6035" foreColor="darkGray" name="CurrentPC"/>
+    <fontcolor bgColor="fffc9d9f" name="Dbx_Bpt_compound"/>
+    <fontcolor name="org-netbeans-modules-editor-annotations-override-is-overridden-combined"/>
+    <fontcolor name="org-netbeans-modules-editor-annotations-is_overridden"/>
+    <fontcolor bgColor="ffdcdcd8" name="Dbx_Bpt_hit_dis"/>
+    <fontcolor bgColor="ffdcdcd8" name="Dbx_Bpt_cmpx_broken_dis"/>
+    <fontcolor name="PHPError" waveUnderlined="red"/>
+    <fontcolor name="org-netbeans-modules-git-Annotation"/>
+    <fontcolor bgColor="fffc9d9f" name="Dbx_Bpt_cmpx_broken"/>
+    <fontcolor name="org-netbeans-spi-editor-hints-parser_annotation_hint_fixable"/>
+    <fontcolor bgColor="ffdcdcd8" name="Dbx_Bpt_cmpx_dis"/>
+    <fontcolor name="PHPNotice" waveUnderlined="ffc0c000"/>
+    <fontcolor name="editor-bookmark"/>
+    <fontcolor name="org-netbeans-modules-editor-annotations-overrides"/>
+    <fontcolor name="OtherThread"/>
+    <fontcolor foreColor="ffa8c023" name="org-netbeans-spi-editor-hints-parser_annotation_todo"/>
+    <fontcolor name="org-netbeans-spi-editor-hints-parser_annotation_verifier_fixable"/>
+    <fontcolor name="org-netbeans-spi-editor-hints-parser_annotation_err"/>
+    <fontcolor bgColor="ffbde6aa" name="Dbx_Bpt_hit_broken"/>
+    <fontcolor name="org-netbeans-modules-editor-annotations-implements-has-implementations-combined"/>
+    <fontcolor name="yaml-schema-violation"/>
+    <fontcolor name="org-netbeans-modules-gsf-testrunner-runnable-test-annotation"/>
+    <fontcolor bgColor="ff611d1d" foreColor="ffe9dbfd" name="Breakpoint"/>
+    <fontcolor bgColor="fffc9d9f" name="Dbx_Bpt_cmpx"/>
+    <fontcolor name="org-netbeans-modules-editor-annotations-implements-is-overridden-combined"/>
+    <fontcolor bgColor="ffffa0a0" name="org-netbeans-modules-xml-error"/>
+    <fontcolor bgColor="ffdcdcd8" name="Dbx_Bpt_cmpx_hit_broken_dis"/>
+    <fontcolor name="PHPWarning" waveUnderlined="ffc0c000"/>
+    <fontcolor bgColor="fffc9d9f" name="Dbx_Bpt_broken"/>
+    <fontcolor bgColor="ffbde6aa" name="Dbx_Bpt_compound_hit"/>
+    <fontcolor bgColor="ffdcdcd8" name="Dbx_Bpt_hit_broken_dis"/>
+    <fontcolor bgColor="ffbde6aa" name="Dbx_Bpt_cmpx_hit"/>
+    <fontcolor bgColor="ffdcdcd8" name="Dbx_Bpt_dis"/>
+    <fontcolor bgColor="ffdcdcd8" name="Dbx_Bpt_broken_dis"/>
+    <fontcolor bgColor="ffbde6aa" name="Dbx_Bpt_hit"/>
+</fontscolors>

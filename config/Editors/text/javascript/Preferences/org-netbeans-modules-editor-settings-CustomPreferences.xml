@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor-preferences PUBLIC "-//NetBeans//DTD Editor Preferences 1.0//EN" "http://www.netbeans.org/dtds/EditorPreferences-1_0.dtd">
+<editor-preferences>
+    <entry javaType="java.lang.Boolean" name="autoCompletionAfterDot" xml:space="preserve"><value><![CDATA[true]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="autoCompletionFull" xml:space="preserve"><value><![CDATA[true]]></value></entry>
+    <entry javaType="java.lang.String" name="catchBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+    <entry javaType="java.lang.String" name="classDeclBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-import" xml:space="preserve"><value><![CDATA[false]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-initial-comment" xml:space="preserve"><value><![CDATA[false]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-innerclass" xml:space="preserve"><value><![CDATA[false]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-javadoc" xml:space="preserve"><value><![CDATA[false]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-method" xml:space="preserve"><value><![CDATA[false]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-tags" xml:space="preserve"><value><![CDATA[false]]></value></entry>
+    <entry javaType="java.lang.Integer" name="codeComletionItemDescriptionWith" xml:space="preserve"><value><![CDATA[40]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="codeCompletionSmartQuotes" xml:space="preserve"><value><![CDATA[true]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="codeCompletionStringAutoConcatination" xml:space="preserve"><value><![CDATA[true]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="codeCompletionTypeResolution" xml:space="preserve"><value><![CDATA[true]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="enable-indent" xml:space="preserve"><value><![CDATA[true]]></value></entry>
+    <entry javaType="java.lang.String" name="forBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+    <entry javaType="java.lang.String" name="functionDeclBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+    <entry javaType="java.lang.String" name="ifBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+    <entry javaType="java.lang.String" name="whileBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+    <entry javaType="java.lang.String" name="withBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+</editor-preferences>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "https://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
+<fontscolors>
+    <fontcolor default="whitespace" name="sql-whitespace"/>
+    <fontcolor default="operator" name="sql-dot"/>
+    <fontcolor default="default" name="default"/>
+    <fontcolor default="error" foreColor="ffff5555" name="sql-errors" waveUnderlined="red"/>
+    <fontcolor default="string" foreColor="fff1fa8c" name="sql-string-literal"/>
+    <fontcolor default="comment" name="sql-line-comment"/>
+    <fontcolor default="number" name="sql-int-literal"/>
+    <fontcolor default="keyword" name="sql-keyword">
+        <font style="bold+italic"/>
+    </fontcolor>
+    <fontcolor default="number" foreColor="ffe957e9" name="sql-double-literal"/>
+    <fontcolor default="field" foreColor="ff8bdffd" name="sql-identifier"/>
+    <fontcolor default="operator" name="sql-operator"/>
+    <fontcolor default="comment" name="sql-block-comment"/>
+</fontscolors>

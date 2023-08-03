@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor-preferences PUBLIC "-//NetBeans//DTD Editor Preferences 1.0//EN" "http://www.netbeans.org/dtds/EditorPreferences-1_0.dtd">
+<editor-preferences>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-import" xml:space="preserve"><value><![CDATA[false]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-initial-comment" xml:space="preserve"><value><![CDATA[false]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-innerclass" xml:space="preserve"><value><![CDATA[false]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-javadoc" xml:space="preserve"><value><![CDATA[false]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-method" xml:space="preserve"><value><![CDATA[false]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-tags" xml:space="preserve"><value><![CDATA[false]]></value></entry>
+    <entry javaType="java.lang.String" name="disabledErrorChecks" xml:space="preserve"><value><![CDATA[;Token inesperado RPAREN localizado;Token inesperado SEMI localizado;Token inesperado SASS_VAR localizado;Token inesperado COLON localizado;Token inesperado LESS_AND localizado;Token inesperado COMMA localizado;Token inesperado IMPORTANT_SYM localizado;Token inesperado WS localizado;Token inesperado LBRACKET localizado;Unexpected token WS found;Unexpected token RPAREN found;]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="enable-indent" xml:space="preserve"><value><![CDATA[true]]></value></entry>
+</editor-preferences>

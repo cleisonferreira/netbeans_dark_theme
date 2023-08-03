@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "https://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
+<fontscolors>
+    <fontcolor bgColor="ff52457c" name="mark-occurrences"/>
+    <fontcolor foreColor="ffbd93f9" name="identifier"/>
+    <fontcolor default="field" name="markup-attribute"/>
+    <fontcolor bgColor="ff3b514d" name="nbeditor-bracesMatching-match"/>
+    <fontcolor default="identifier" name="method"/>
+    <fontcolor foreColor="ffffb86c" name="string"/>
+    <fontcolor bgColor="ffd1243b" foreColor="ff4747f8" name="nbeditor-bracesMatching-mismatch"/>
+    <fontcolor default="keyword" foreColor="fff1fa8c" name="markup-element"/>
+    <fontcolor default="string" name="markup-attribute-value"/>
+    <fontcolor name="error" waveUnderlined="red"/>
+    <fontcolor default="default" foreColor="pink" name="entity-reference"/>
+    <fontcolor foreColor="ffbd93f9" name="separator"/>
+    <fontcolor foreColor="ffff769a" name="operator"/>
+    <fontcolor name="url" underline="ff5a5ae5"/>
+    <fontcolor foreColor="magenta" name="number"/>
+    <fontcolor bgColor="ff282a36" foreColor="ffef98ff" name="default">
+        <font name="Droid Sans Mono" size="15"/>
+    </fontcolor>
+    <fontcolor default="identifier" foreColor="ff50fa7b" name="field"/>
+    <fontcolor foreColor="yellow" name="char"/>
+    <fontcolor name="warning" waveUnderlined="ff979723"/>
+    <fontcolor foreColor="ff969696" name="comment"/>
+    <fontcolor foreColor="ffff79c6" name="keyword"/>
+    <fontcolor foreColor="black" name="whitespace"/>
+</fontscolors>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor-preferences PUBLIC "-//NetBeans//DTD Editor Preferences 1.0//EN" "http://www.netbeans.org/dtds/EditorPreferences-1_0.dtd">
+<editor-preferences>
+    <entry javaType="java.lang.Boolean" name="alignMultilineCallArgs" xml:space="preserve"><value><![CDATA[true]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="alignMultilineMethodParams" xml:space="preserve"><value><![CDATA[true]]></value></entry>
+    <entry javaType="java.lang.String" name="anonymousClassBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+    <entry javaType="java.lang.String" name="catchBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+    <entry javaType="java.lang.String" name="classDeclBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="enable-indent" xml:space="preserve"><value><![CDATA[true]]></value></entry>
+    <entry javaType="java.lang.String" name="forBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="groupAlignmentArrayInit" xml:space="preserve"><value><![CDATA[true]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="groupAlignmentAssignment" xml:space="preserve"><value><![CDATA[true]]></value></entry>
+    <entry javaType="java.lang.String" name="ifBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+    <entry javaType="java.lang.String" name="methodDeclBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+    <entry javaType="java.lang.String" name="on-save-reformat" xml:space="preserve"><value><![CDATA[never]]></value></entry>
+    <entry javaType="java.lang.String" name="on-save-remove-trailing-whitespace" xml:space="preserve"><value><![CDATA[never]]></value></entry>
+    <entry javaType="java.lang.Boolean" name="spaceAroundDeclareEqual" xml:space="preserve"><value><![CDATA[true]]></value></entry>
+    <entry javaType="java.lang.String" name="switchBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+    <entry javaType="java.lang.String" name="useTraitBodyBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+    <entry javaType="java.lang.String" name="whileBracePlacement" xml:space="preserve"><value><![CDATA[NEW_LINE]]></value></entry>
+</editor-preferences>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "https://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
+<fontscolors>
+    <fontcolor default="link" foreColor="magenta" name="wikilink"/>
+    <fontcolor name="strong">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="comment" name="code"/>
+    <fontcolor default="image" foreColor="ff7e7ee7" name="expimage"/>
+    <fontcolor default="keyword" name="link"/>
+    <fontcolor default="keyword" foreColor="orange" name="orderedlist"/>
+    <fontcolor default="image" name="ref_image"/>
+    <fontcolor default="comment" name="verbatim"/>
+    <fontcolor name="emph">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="keyword" name="listitem"/>
+    <fontcolor default="keyword" foreColor="orange" name="quoted"/>
+    <fontcolor default="keyword" foreColor="magenta" name="reference"/>
+    <fontcolor default="keyword" foreColor="red" name="bulletlist"/>
+    <fontcolor default="link" foreColor="blue" name="anchorlink"/>
+    <fontcolor name="plain"/>
+    <fontcolor default="keyword" foreColor="cyan" name="definition"/>
+    <fontcolor default="keyword" name="definition_term"/>
+    <fontcolor name="strikethrough" strikeThrough="black"/>
+    <fontcolor default="string" foreColor="red" name="table"/>
+    <fontcolor default="link" name="maillink"/>
+    <fontcolor default="header" foreColor="ffdd8888" name="header4"/>
+    <fontcolor default="separator" foreColor="red" name="horizontalrule"/>
+    <fontcolor default="link" foreColor="ff6161e3" name="explink"/>
+    <fontcolor default="header" foreColor="ffd48888" name="header3"/>
+    <fontcolor default="keyword" name="image"/>
+    <fontcolor default="comment" foreColor="orange" name="blockquote"/>
+    <fontcolor default="header" foreColor="ffdd8888" name="header2"/>
+    <fontcolor default="header" foreColor="ffdd8888" name="header1"/>
+    <fontcolor default="link" foreColor="blue" name="autolink"/>
+    <fontcolor foreColor="yellow" name="abbreviation">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="keyword" foreColor="green" name="inlinehtml"/>
+    <fontcolor default="header" foreColor="ffdd8888" name="header6"/>
+    <fontcolor default="header" foreColor="ffdd8888" name="header5"/>
+    <fontcolor default="link" name="ref_link"/>
+    <fontcolor default="keyword" foreColor="white" name="definition_list"/>
+    <fontcolor default="keyword" name="header">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="whitespace" name="whitespace"/>
+    <fontcolor default="string" name="htmlblock"/>
+</fontscolors>

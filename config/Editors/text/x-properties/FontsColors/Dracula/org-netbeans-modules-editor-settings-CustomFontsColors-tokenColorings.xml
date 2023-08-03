@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "https://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
+<fontscolors>
+    <fontcolor default="string" foreColor="fff1fa8c" name="properties-value"/>
+    <fontcolor default="default" foreColor="ff8be9fd" name="properties-key"/>
+    <fontcolor default="default" name="properties-text">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="comment" name="properties-line-comment"/>
+    <fontcolor default="operator" foreColor="ffff79c6" name="properties-equal-sign"/>
+</fontscolors>

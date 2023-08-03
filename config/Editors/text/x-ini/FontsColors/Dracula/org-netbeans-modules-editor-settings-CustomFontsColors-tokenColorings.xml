@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "https://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
+<fontscolors>
+    <fontcolor foreColor="ffff79c6" name="equals"/>
+    <fontcolor foreColor="ff969696" name="comment"/>
+    <fontcolor foreColor="ff50fa7b" name="section"/>
+    <fontcolor default="error" name="error"/>
+    <fontcolor foreColor="ff50fa7b" name="section_delim">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="whitespace"/>
+    <fontcolor foreColor="fff1fa8c" name="value"/>
+    <fontcolor foreColor="ff8be9fd" name="key"/>
+</fontscolors>

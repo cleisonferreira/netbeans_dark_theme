@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE codetemplates PUBLIC "-//NetBeans//DTD Editor Code Templates settings 1.0//EN" "http://www.netbeans.org/dtds/EditorCodeTemplates-1_0.dtd">
+<codetemplates>
+    <codetemplate abbreviation="xhr" xml:space="preserve"><code><![CDATA[/* Check if Browser is compatible */
+    if (!window.XMLHttpRequest) {
+        try {
+
+            /* Initialize XHR */
+            var xhr = new XMLHttpRequest(),
+                    form = _.getForm();
+
+            /* Set Options */
+            xhr.msCaching = 'disabled';
+            xhr.previousText = ''; /* Initialize property */
+            xhr.json = {}; /* Initialize property */
+
+            /* Code Before send */
+            ${codeBeforeSend}
+
+            /**
+             * XHR EVENTS
+             *---------------------------*/
+
+            /**
+             *  Event Upload|Download
+             * @param {type} Progress Event
+             * @return {void}
+             */
+            xhr.onprogress = function (pe) {
+                if (pe.lengthComputable) {
+                    percent = pe.loaded * 100 / pe.total;
+                    ${codeBeforeSend}
+                }
+            }
+
+            /**
+             *  Event Change State 
+             *  Attention: User PHP Object Xhr
+             *      set minimum delay of 1 second for each iteration
+             * @param {type} Progress Events
+             * @return {void}
+             */
+            xhr.onreadystatechange = function (pe) {
+                try {
+                    if (xhr.readyState > 2) {
+                        var length = xhr.previousText.length;
+                        xhr.substring = xhr.responseText.substring(length);
+
+                        /* Conversion to JSON */
+                        try {
+                            xhr.json = JSON.parse(xhr.substring);
+                            if (xhr.json.hasOwnProperty('progress')) {
+                            }
+                        } catch (e) {
+                        }
+                        /* Update previousText*/
+                        xhr.previousText = xhr.response;
+                    }
+                } catch (e) {
+                    console.log(e);
+                }
+            };
+
+            /**
+             *  Complete Event
+             * @param {type} Progress Events
+             * @return {void}
+             */
+            xhr.onload = function (pe) {
+                ${codeComplete}
+            };
+
+            /**
+             * Event Error
+             * @param {type} Progress Events
+             * @return {void}
+             */
+            xhr.onerror = function (pe) {
+                ${codeError}
+            };
+            /* END EVENTS */
+
+            /* Open conection */
+            xhr.open('POST', '/ajax/subscribers/import.php?p=1', true);
+
+            /* Set header */
+            xhr.setRequestHeader("X-Requested-With", "XMLHttpRequest");
+            xhr.setRequestHeader("X-Requested", _.g("xrequested"));
+
+            /*  Send request */
+            xhr.send(form);
+        } catch (e) {
+        }
+    } else {
+        log_message("Your browser does not support the native XMLHttpRequest object.");
+    }]]></code></codetemplate>
+    <codetemplate abbreviation="debug" xml:space="preserve"><code><![CDATA[DEBUG ? console.log('Debug -> ${cursor}') : FALSE;]]></code></codetemplate>
+    <codetemplate abbreviation="post" xml:space="preserve"><code><![CDATA[    $.post(${url},${data},function(data){
+        ${todo};
+    });]]></code></codetemplate>
+    <codetemplate abbreviation="change" xml:space="preserve"><code><![CDATA[/**
+ * ${description} 
+ */
+$('${selector}').change(function () {
+    ${todo}
+});]]></code></codetemplate>
+    <codetemplate abbreviation="cl" xml:space="preserve"><code><![CDATA[console.log(${data});]]></code></codetemplate>
+    <codetemplate abbreviation="axhr" xml:space="preserve"><code><![CDATA[$.ajax({
+    url: '${url}',
+    type: 'POST',
+    data: _.getForm(),
+    cache: false,
+    contentType: false,//revine erro no onreadychangestate
+    processData: false,//Previne erro no FormData
+    success: function (data) {
+        if (data.ret == true) {
+            ${sucessCode}
+        } else {
+            showAlert(data);//Se for false adiciona o alert
+        }
+    },
+    complete:function(){
+         ${completeCode}
+    },
+    xhr: function () {
+        /* Before Send*/
+        ${beforeCode}
+        var xhr = new XMLHttpRequest;
+        xhr.bar = _.g('Bar', '${barName}');//Seta o progressbar
+        xhr.bar.init();//Inicializa o progressbar
+        xhr.onprogress = function (pe) {
+            onProgress(pe, this);//Define a funcao do progresso de upload
+        };
+        xhr.onreadystatechange = function (pe) {//Define a funcao de progresso o bar
+            onReadyStateChange(pe, this);
+        };
+        return xhr;
+    }
+});]]></code></codetemplate>
+    <codetemplate abbreviation="ajax" xml:space="preserve"><code><![CDATA[$.ajax({
+    url: ${path},
+    type: 'post',
+    data:form,
+    cache: false,
+    contentType: false,
+    processData: false,
+    success: function (dt) {
+        /* Exibe o retorno da requisicao */
+        success(dt, function () {
+                 ${code};
+        });
+    },
+    beforeSend: function () {},
+    complete: function () {}
+});]]></code></codetemplate>
+    <codetemplate abbreviation="click" xml:space="preserve"><code><![CDATA[/**
+ * ${description} 
+ */
+$('${selector}').click(function () {
+    ${todo}
+});]]></code></codetemplate>
+    <codetemplate abbreviation="fun" xml:space="preserve"><code><![CDATA[/**
+ * ${1 default="Comment"}
+ * @param {${type}} ${parameter}
+ */
+funct
+function ${name}(${parameters}) {
+    ${selection}${cursor}
+}]]></code><description><![CDATA[function() { ...| }]]></description></codetemplate>
+</codetemplates>

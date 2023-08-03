@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="identifier" foreColor="ff6d3206" name="identifier"/>
+    <fontcolor default="keyword" foreColor="blue" name="linux_command">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="magenta" name="character"/>
+    <fontcolor default="operator" name="operator">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="keyword" foreColor="ffce7b00" name="literal">
+        <font style="plain"/>
+    </fontcolor>
+</fontscolors>

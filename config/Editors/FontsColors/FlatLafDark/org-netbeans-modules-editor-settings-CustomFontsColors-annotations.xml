@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "https://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
+<fontscolors>
+    <fontcolor name="org-netbeans-modules-gsf-testrunner-runnable-test-annotation"/>
+    <fontcolor bgColor="ff4b1919" foreColor="ffe9dbfd" name="Breakpoint"/>
+    <fontcolor name="PinnedWatch"/>
+    <fontcolor bgColor="ff283c26" foreColor="ff2c2c2c" name="CurrentPC"/>
+    <fontcolor name="yaml-schema-violation"/>
+</fontscolors>

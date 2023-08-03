@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bindings PUBLIC "-//NetBeans//DTD Editor KeyBindings settings 1.1//EN" "http://www.netbeans.org/dtds/EditorKeyBindings-1_1.dtd">
+<bindings>
+    <bind actionName="in-place-refactoring" key="F2"/>
+    <bind key="O-RIGHT" remove="true"/>
+    <bind key="O-BACK_SPACE" remove="true"/>
+    <bind key="D-R" remove="true"/>
+    <bind key="S-SPACE" remove="true"/>
+    <bind key="S-BACK_SPACE" remove="true"/>
+    <bind key="O-KP_LEFT" remove="true"/>
+    <bind key="O-KP_RIGHT" remove="true"/>
+    <bind key="S-F10" remove="true"/>
+    <bind key="O-LEFT" remove="true"/>
+</bindings>
